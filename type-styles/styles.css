@@ -1,0 +1,19 @@
+		@import url('https://fonts.googleapis.com/css?family=Raleway');
+		body{font-family: 'Raleway', sans-serif;}
+		p {font-family: Arial; font-size: 12px;}
+		span{font-size: 24px;font-family: 'Raleway', sans-serif;}
+		h1{font-size: 72px;}
+		h1,h2{font-weight: bold; }
+		h2{font-size: 32px;color: gray;font-family: Arial; }
+		span.norm{font-weight: normal;font-style: normal;letter-spacing: normal;text-decoration: none;text-transform: none;}
+		span.fw{font-weight: bold;}
+		span.fs{font-style: italic;}
+		span.ls-three{letter-spacing: 3px}
+		span.ls-six{letter-spacing: -6px}
+		span.tt-uc{text-transform: uppercase;}
+		span.tt-lc{text-transform: lowercase;}
+		span.tt-c{text-transform: capitalize;}
+		span.td-ul{text-decoration: underline;}
+		span.td-lt{text-decoration: line-through;}
+		span.td-ol{text-decoration: overline;}
+		#size { color: black; font-family: Arial; font-weight:normal; }
