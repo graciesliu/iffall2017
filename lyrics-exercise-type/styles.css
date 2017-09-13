@@ -1,0 +1,8 @@
+		@import url('https://fonts.googleapis.com/css?family=Lobster');
+		body{font-family: 'Lobster', cursive; background-color: pink; text-align: center;}
+		.header{color: magenta}
+		.lyrics{color:purple;}
+		.verse{font-style: italic}
+		.bridge{font-weight:bold;}
+		.intro{text-transform: uppercase;}
+		.hook{text-shadow: 1px 1px red;} 
