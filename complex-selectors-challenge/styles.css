@@ -1,0 +1,15 @@
+header{margin-bottom: 3rem;}
+p {line-height: 1.6}
+.see-all{font-size: 0.8em; text-transform: uppercase;}
+.shows h1{font-size: 2.5rem;}
+section h2{font-size: 1rem; text-transform: uppercase}
+h1,h2{font-weight: 100 }
+img{width: 100%}
+.cast li {width: 25%}
+#game-of-thrones,#unbreakable-kimmy-schmidt{border-top: 1px solid black; }
+.selected a{font-weight: bold; color: black}
+.cast a div {font-size: .8rem;font-weight: bold}
+.cast a>div:last-child{font-style: italic; font-weight: normal;}
+#game-of-thrones .seasons li:last-child:after{content: "*"}
+#game-of-thrones .seasons ul:after{display:block; content: "* In production";font-size: .7rem;color: #999}
+
