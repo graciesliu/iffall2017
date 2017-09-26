@@ -1,0 +1,12 @@
+		@import url('https://fonts.googleapis.com/css?family=Lobster');
+		body{
+			font-family: 'Lobster', cursive; 
+			background-color: pink; 
+			background-image: url(http://thatgrapejuice.net/wp-content/uploads/2014/08/byeonce-in-partition-tgj.jpg);
+			text-align: center;}
+		.header{color: magenta}
+		.lyrics{color:purple;}
+		.verse{font-style: italic}
+		.bridge{font-weight:bold;}
+		.intro{text-transform: uppercase;}
+		.hook{text-shadow: 1px 1px red;} 
