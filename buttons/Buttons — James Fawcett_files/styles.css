@@ -318,7 +318,7 @@ body {
 				display: inline-block;
 				height: 50px;
 				box-sizing: border-box;
-				border-radius: 10px;
+				border-radius: 25px;
 				margin: auto;
 				margin-top: 100px;
 				padding: 10px 40px 0 40px;
@@ -382,7 +382,7 @@ body {
 				font-size: 60px;
 			}
 			a#btn_tesla:hover {
-				background-color: red;
+				background-color: #8b9dc3;
 			}
 /*16*/
 			a#btn_insta{
@@ -407,7 +407,7 @@ body {
 				display: inline-block;
 				height: 50px;
 				box-sizing: border-box;
-				border-radius: 200px;
+				border-radius: 25px;
 				margin: auto;
 				margin-top: 100px;
 				padding: 10px 40px 0 40px;
@@ -417,61 +417,13 @@ body {
 				font-family: 'Futura condensed', sans-serif;
 				font-weight: bold;
 				text-decoration: none;
-				font-style: normal;
 			}
 			a#btn_oldnavy:hover {
-				background-color: yellow;
-				color: #2f364a;
+				background-color: #fff;
+				border: 2px solid #000;
+				color: #000;
 			}
-/*18 */
-			a#btn_moo{
-				display: block;
-				width: 100px;
-				height: 100px;
-				box-sizing: border-box;
-				border-radius: 50px;
-				margin: auto;
-				margin-top: 75px;
-				padding-top: 8px;
-				background-color: white;
-				border: 2px solid green;
-			}
-			a#btn_moo:hover {
-				opacity: .5;
-			}
-/*19*/
-			a#btn_tonight{
-				display: block;
-				width: 100px;
-				height: 100px;
-				box-sizing: border-box;
-				border-radius: 3px;
-				margin: auto;
-				margin-top: 75px;
-				padding-top: 8px;
-				background-color: 	#120A8F;
-				color: #fff;
-				text-align: center;
-				font-size: 60px;
-			}
-			a#btn_tonight:hover {
-				background-color: 	#C0C0C0;
-			}
-/*20*/
-			a#btn_fitbit{
-				display: block;
-				width: 100px;
-				height: 100px;
-				box-sizing: border-box;
-				border-radius: 3px;
-				margin: auto;
-				margin-top: 75px;
-				padding-top: 8px;
-				background-color: white;
-			}
-			a#btn_fitbit:hover {
-				opacity: .5;
-			}
+
 /*21*/
 			a#btn_nike {
 				display: inline-block;
@@ -495,61 +447,8 @@ body {
 				border: 2px solid #000;
 				color: #000;
 			}
-/*22*/
-			a#btn_potter{
-				display: block;
-				width: 100px;
-				height: 100px;
-				box-sizing: border-box;
-				border-radius: 3px;
-				margin: auto;
-				margin-top: 75px;
-				padding-top: 8px;
-				background-color: brown;
-				color: #fff;
-				text-align: center;
-				font-size: 60px;
-			}
-			a#btn_potter:hover {
-				background-color: green;
-				opacity: .5;
-			}
 
-/*23*/
-			a#btn_hsn{
-				display: block;
-				width: 100px;
-				height: 100px;
-				box-sizing: border-box;
-				border-radius: 3px;
-				margin: auto;
-				margin-top: 75px;
-				padding-top: 8px;
-			}
-			a#btn_hsn:hover {
-				opacity: .5;
-			}
-/*24*/
-			a#btn_color {
-				display: inline-block;
-				height: 50px;
-				box-sizing: border-box;
-				border-radius: 10px;
-				margin: auto;
-				margin-top: 100px;
-				padding: 10px 40px 0 40px;
-				background-color: magenta;
-				color: #fff;
-				font-size: 20px;
-				font-family: 'Helvetica condensed', sans-serif;
-				font-weight: bold;
-				text-decoration: none;
-				font-style: normal;
-				text-transform: uppercase;
-			}
-			a#btn_color:hover {
-				background-color: cyan;
-			}
+
 /*25*/
 			a#btn_npr {
 				display: inline-block;
@@ -566,7 +465,6 @@ body {
 				font-weight: bold;
 				text-decoration: none;
 				letter-spacing: 10px;
-				font-style: normal;
 			}
 			a#btn_npr:hover {
 				background-color: #3266CC;
