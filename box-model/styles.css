@@ -1,0 +1,139 @@
+body {
+	font-family: 'Archivo Narrow', sans-serif;
+	/*background-image: url("https://wudesign.me/resources/html_tracing/images/bg.png");*/
+	/*background-position: center top;*/
+	height: 2315px;
+	color: white; 
+}
+
+section{ width:100%; text-align: center;}
+
+section#one{
+	padding-top: 90px;
+	padding-bottom: 177px;
+	background-image: url("https://image.freepik.com/free-vector/memphis-pattern-with-geometric-shapes_1124-150.jpg");
+}
+h1 {
+	font-size: 80px;
+	color: black;
+	margin-bottom: -20px;
+}
+
+h2 {
+	margin-top: 0;
+	font-size: 40.29px;
+	font-weight: 700;
+	color: white;
+}
+
+h3 {
+	text-align: center;
+	font-weight: 700;
+	letter-spacing: .4px;
+	font-size: 29px;
+	margin-top: 22px;
+	color: #14170F;
+}
+
+h4{
+	font-weight: 700;
+	font-size: 19.5px;
+	text-align: left;
+	margin:0px;
+}
+section#two{
+	padding-top: 39px;
+	padding-left: 227px;
+	padding-right: 227px;
+	padding-bottom: 28px;
+	margin:0;
+	width: auto;
+	float: left;
+	color: white;
+	background-color: #FF6B6B;
+}
+section#three{
+	padding-top: 46px;
+	padding-bottom: 28px;
+	margin:0;
+	width: auto;
+	float: left;
+	background-color: #4ECDC4;
+}
+section#three table{
+	padding-left: 178px;
+	padding-right: 227px;
+}
+
+section#four{
+	padding-top: 39px;
+	padding-left: 360px;
+	padding-right: 350px;
+	padding-bottom: 103px;
+	margin-top:0;
+	width: auto;
+	float: left;
+	color: white;
+	background-color: #1A535C;
+}
+section#four p{
+	font-size: 27px;
+	line-height: 30px;
+	margin-top: 0;
+}
+
+section#five{
+	margin:0;
+	min-height: 50;
+	width: 100%;
+	float: left;
+	background-color: #FFE66D;
+}
+section#five i{
+	float: right;
+	margin: 5px;
+	display: inline;
+}
+p{
+	text-align: left;
+	font-size: 18px;
+	line-height: 21.5px;
+}
+p.text{
+	padding-right: 10px;
+}
+img{
+	display: inline-block;
+	margin-left: 40px;
+	margin-bottom: 30px;
+	float: right;
+}
+
+td img{
+	float: left;
+	margin-right: 7px;
+}
+
+td {
+	margin: 0px;
+	padding: 0px;
+}
+
+tr{
+	margin: 0px;
+	padding: 0px;
+}
+div#icons{
+	margin-top: 35px;
+	margin-right: 210px;
+}
+
+p#cr{
+	float: left;
+	margin-left: 226px;
+	margin-top: 43px;
+	display: inline;
+}
+
+
+
