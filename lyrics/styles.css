@@ -1,0 +1,40 @@
+body{
+	/*background-image: url("mockup3.jpg");*/
+	background-color: #f1a2b8;
+	margin: 0px;
+	padding: 0px;
+}
+
+div#image{
+	position:fixed;
+	width: 50%;
+	margin-left:70px;
+	margin-top: 30px;
+}
+
+#yonce
+{
+	position: absolute;
+	width: 363px;
+}
+
+#slay
+{ 
+	position: absolute; 
+	width: 470px;
+}
+
+#body{
+	float: left;
+	font-family:Univers, sans-serif;
+	margin-top: 130px;
+	margin-left:550px;
+	margin-bottom: 30px;
+	min-width: 400px
+}
+
+div#lyrics{
+		font-size: 11px;
+		line-height: 12px;
+}
+
