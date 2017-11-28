@@ -1,0 +1,42 @@
+body{ background-image: url('home bg.png'); }
+.content{
+	color: white;
+	font-family:"arimo",sans-serif;
+	box-sizing: border-box;
+	position: absolute;
+	left: 150px;
+	bottom: 80px;
+	width: 680px;
+}
+.menu{
+	color:gray;
+	font-family:"arimo",sans-serif;
+	font-family:sans-serif;
+	float: right;
+	width: 200px;
+	position: static;
+	bottom: 20px;
+	right:20px;
+	line-height: 30px;
+	font-weight: bold;
+	/*position: fixed;*/
+}
+ul{
+	list-style-type: none;
+}
+
+a:link{
+	text-decoration: none;
+	color: gray;
+}
+a:visited{
+	text-decoration: none;
+	color: gray;
+}
+a:hover{
+	color: white;
+}
+a:active{
+	text-decoration: none;
+	color: white;
+}
