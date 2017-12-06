@@ -1,5 +1,6 @@
 body{ 
 	background-image: url('bg.png'); 
+	background-size: cover;
 	margin:0px;
 	padding: 0px;
 }
