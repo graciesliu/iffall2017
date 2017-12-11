@@ -1,0 +1,30 @@
+body{ 
+	font-family: 'Space Mono', monospace;
+	color: #F7FFF7;
+	background-color: #292F36;
+}
+
+h1{
+	font-size: 24px;
+	position: relative;
+	top: 300px;
+	left: 150px;
+}
+
+div{
+	position: relative;
+	right: 0;
+	top: 0;
+}
+
+a{
+	font-size: 150px;
+	display: block;
+}
+
+a:visited{
+	color: #FF6B6B;
+}
+a:hover{
+	color: #4ECDC4;
+}
